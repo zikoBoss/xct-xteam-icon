@@ -6,17 +6,23 @@ API وسيط للأيقونات ديال Free Fire — الرابط العموم
 
 ```
 GET https://xct-xteam-icon.vercel.app/<icon_name>.png
+GET https://xct-xteam-icon.vercel.app/item/<item_id>.png
 ```
 
-مثال:
+مثالان:
 
 ```
 https://xct-xteam-icon.vercel.app/Icon_Pet_Golden_Panther.png
+https://xct-xteam-icon.vercel.app/item/1310000024.png
 ```
 
+الطريقان كيرجعو نفس الصورة: الطريق الثاني كيقلب على اسم الأيقونة من رقم
+الآيتيم في الملف المحلي `icon_map.json` (31,990 عنصر)، بلا ما يحتاج أي
+خدمة أخرى.
+
 - `200` → صورة PNG ديال الأيقونة
-- `404` → الأيقونة ما كايناش
-- `400` → اسم الأيقونة غير صالح
+- `404` → الأيقونة / الآيتيم ما كايناش
+- `400` → اسم الأيقونة أو رقم الآيتيم غير صالح
 - `502` → المصدر ما جاوبش
 
 ## كيفاش خدام
