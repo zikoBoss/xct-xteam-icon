@@ -49,3 +49,7 @@ xct-xteam-icon.vercel.app/<icon_name>.png
 - Vercel (Python runtime)
 - أسماء الأيقونات المسموحة: حروف، أرقام، `_` و `-` فقط
 - الصور الناجحة كتتكاشا 24 ساعة (`Cache-Control: public, max-age=86400`)؛ الأخطاء ما كتتكاشاش
+
+## Achievements
+
+- Quickdraw — earned 2026-11-27
