@@ -54,3 +54,8 @@ xct-xteam-icon.vercel.app/<icon_name>.png
 
 - Quickdraw — earned 2026-11-27
 - YOLO — earned 2026-11-27
+
+## Contributors
+
+- zikoBoss
+- Kraka0.1-Dev (sorytokill-create)
