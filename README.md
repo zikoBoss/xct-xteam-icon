@@ -53,3 +53,4 @@ xct-xteam-icon.vercel.app/<icon_name>.png
 ## Achievements
 
 - Quickdraw — earned 2026-11-27
+- YOLO — earned 2026-11-27
